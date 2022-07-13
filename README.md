@@ -1,5 +1,5 @@
 # Hi, I’m Lukas!
-#### I’m currently learning Python, Django, HTML, CSS and JavaScript.
+<!--- #### I’m currently learning Python, Django, HTML, CSS and JavaScript. --->
 #### <ins>My Skills:</ins>
 * Python
 * Django
