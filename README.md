@@ -3,7 +3,6 @@
 #### <ins>My Skills:</ins>
 * Python
 * Django
-* HTML, CSS and JavaScript
 * Pygame
 
 
